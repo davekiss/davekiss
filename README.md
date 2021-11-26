@@ -1,7 +1,7 @@
 ### Hi! I'm Dave Kiss, and I make the internet. 👋
 
 - 🔭  I’m currently working full-time with [Mux](https://mux.com)
-- 🌱  I’m currently learning about Identity Verification, TypeScript, and being a father
+- 🌱  I’m currently learning about ML Identity Verification, TypeScript, and being a father
 - 😄 Pronouns: he/him
 
 I had a pretty early start on this web stuff – I still remember the modem connection sounds of AOL 2.5 emanating from my eMachines desktop like it was yesterday. My first website was a [Kool-aid fan site](http://angelfire.com/oh5/koolaid) that I built in 2004 (yeah, it’s still up.)
@@ -16,7 +16,11 @@ Rather than building a tool that only worked for us, I thought it’d be a good 
 
 In 2012, I started [selling my own software online](https://vimeography.com) and took a few years to grow the sales to a sustainable level. I did it by extracting my truth from the industry’s smartest brains, applying it to my ideas along the way, and finding out firsthand what did and didn’t work.
 
-It’s now my full time job and provides the opportunity to explore my many other interests.
+For 8 years, that was my full time job. The autonomy and creativity was unparalleled, and it provided the opportunity to explore my many other interests. However, working for myself became a little lonely at times, and doubly so during a pandemic.
+
+In September 2021, I decided to combine my video production background, web dev chops, and passion for community into a neat little package and roll into a Community Engineering role with the fine team at [Mux.](https://mux.com)
+
+---
 
 I get a ton of satisfaction from sharing what I know. Whether it’s helping you write your first few lines of Javascript, making your first online sale, or talking about the importance of meetups, I want to do my best to help you do better work and share what I’ve learned along the way.
 
