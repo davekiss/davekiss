@@ -1,7 +1,7 @@
 ### Hi! I'm Dave Kiss, and I make the internet. 👋
 
 - 🔭  I’m currently working full-time with [Mux](https://mux.com)
-- 🌱  I’m currently learning about WebRTC, TypeScript, public speaking, and being a father
+- 🌱  I’m currently learning about storytelling, user journey, and React Server Components
 - 😄 Pronouns: he/him
 
 I had a pretty early start on this web stuff – I still remember the modem connection sounds of AOL 2.5 emanating from my eMachines desktop like it was yesterday. My first website was a [Kool-aid fan site](http://angelfire.com/oh5/koolaid) that I built in 2004 (yeah, it’s still up.)
@@ -39,7 +39,7 @@ I get a ton of satisfaction from sharing what I know. Whether it’s helping you
 
 [<img align="left" alt="https://davekiss.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="davekiss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="davekiss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="davekiss | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twix]
 
 <br />
 
@@ -53,12 +53,12 @@ I get a ton of satisfaction from sharing what I know. Whether it’s helping you
 <code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 
 <a target=_blank href="https://github.com/davekiss">
-  <img align="center" alt="davekiss's Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=davekiss&show_icons=true&hide_border=true&count_private=true"/>
+  <img align="center" alt="davekiss's GitHub Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=davekiss&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 <a target=_blank href="https://github.com/davekiss">
   <img align="center" alt="davekiss's Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=davekiss&layout=compact"/>
 </a>
 
 [website]: https://davekiss.com/
-[twitter]: https://twitter.com/davekiss
+[twix]: https://x.com/davekiss
 [linkedin]: https://linkedin.com/in/davekiss
