@@ -1,7 +1,7 @@
 ### Hi! I'm Dave Kiss, and I make the internet. 👋
 
 - 🔭  I’m currently working full-time with [Mux](https://mux.com)
-- 🌱  I’m currently learning about storytelling, user journey, and React Server Components
+- 🌱  I’m currently learning about Realtime LLM interactions
 - 😄 Pronouns: he/him
 
 I had a pretty early start on this web stuff – I still remember the modem connection sounds of AOL 2.5 emanating from my eMachines desktop like it was yesterday. My first website was a [Kool-aid fan site](http://angelfire.com/oh5/koolaid) that I built in 2004 (yeah, it’s still up.)
